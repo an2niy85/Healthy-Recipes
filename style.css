@@ -1,0 +1,27 @@
+img {
+    height: 150px; /*размер изображения*/
+  }
+  
+  .description {
+    font-size: 20px; /*размер шрифта заголовка*/
+  }
+  
+  #cook-time {
+    font-weight: bold;  /*жирный*/
+  }
+  
+  .ingredients li {
+    list-style: square; /*маркированный список квадраты вместо кругов*/
+  }
+  
+  p.time {
+    color: gray; /*время этапов серым*/
+  }
+  
+  .external-link {
+    color: SeaGreen; /*цвет ссылки*/
+  }
+  
+  * {
+    font-family: Helvetica; /*шрифт по умолчанию*/
+  }
